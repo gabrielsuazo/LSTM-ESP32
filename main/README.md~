@@ -1,0 +1,2 @@
+The code executed is in the main.c file.
+To switch between an LSTM in 32 or an LSTM in 8 bits, choose the correct main file and have the appropiate parameters.h as well.
